@@ -1,0 +1,6 @@
+customhost = "empleadosdb.cuayw0s2ottf.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "administrador"
+customdb = "empleadosdb"
+custombucket = ""
+customregion = "us-east-1"
